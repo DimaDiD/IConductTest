@@ -1,0 +1,7 @@
+[2026-03-14 15:02:30 INF] EnableEmployee called with id=8, enable=1
+[2026-03-14 15:03:04 INF] EnableEmployee called with id=8, enable=1
+[2026-03-14 15:03:05 INF] Employee 8 has been enabled.
+[2026-03-14 15:03:36 INF] GetEmployeeById called with id=8
+[2026-03-14 15:03:36 INF] GetEmployeeById returning employee 'Oleg' with 0 direct reports.
+[2026-03-14 15:03:40 INF] GetEmployeeById called with id=1
+[2026-03-14 15:03:40 INF] GetEmployeeById returning employee 'Andrey' with 3 direct reports.
